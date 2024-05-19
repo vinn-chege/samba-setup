@@ -1,6 +1,6 @@
 # samba-setup
-Samba Setup On Debian 12
-# Step 1 – How To Install Samba with APT on Debian 12?
+Samba Setup On Debian 12/Ubuntu 22.04/24.04
+# Step 1 – How To Install Samba with APT on Debian 12/Ubuntu 22.04/24.04?
 
 To install Samba on Debian 12 using APT, follow these steps:
 
