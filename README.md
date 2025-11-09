@@ -15,7 +15,7 @@ A comprehensive guide to installing and configuring Samba with security best pra
 ## Prerequisites
 
 - Root or sudo access
-- Debian 12 or Ubuntu 22.04/24.04 system
+- Debian/Ubuntu/Linux system
 - Network connectivity
 
 ## Installation
