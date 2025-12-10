@@ -1,4 +1,4 @@
-# Samba Setup Guide for Debian 12/Ubuntu 22.04/24.04
+# Samba Setup Guide for Debian 12;13/Ubuntu 22.04;24.04
 
 A comprehensive guide to installing and configuring Samba with security best practices on Debian 12 and Ubuntu 22.04/24.04.
 
